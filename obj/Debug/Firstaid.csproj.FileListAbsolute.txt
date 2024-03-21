@@ -1,0 +1,2 @@
+G:\chajian\Firstaid\obj\Debug\Firstaid.csproj.AssemblyReference.cache
+G:\chajian\Firstaid\obj\Debug\Firstaid.csproj.CoreCompileInputs.cache
